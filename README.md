@@ -157,6 +157,5 @@ No known bugs at this time.
 Ayomiposi Popoola - [Github](https://github.com/lapope1)   
 Okeroghene Okene - [Github](https://github.com/Okene4000)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
